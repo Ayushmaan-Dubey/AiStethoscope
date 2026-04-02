@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+setuptools<81
+tensorflow
+tensorflow-hub
+numpy
+soundfile

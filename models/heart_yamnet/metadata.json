@@ -1,0 +1,10 @@
+{
+  "label_names": [
+    "AS",
+    "MR",
+    "MS",
+    "MVP",
+    "N"
+  ],
+  "input_dim": 1024
+}
